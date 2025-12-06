@@ -76,7 +76,7 @@ How to Run
 
 Open the Jupyter notebook:
 
-jupyter notebook NLP_Project.ipynb
+jupyter notebook Cricketrulebook.ipynb
 
 
 Install dependencies inside the notebook:
