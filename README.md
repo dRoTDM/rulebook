@@ -33,14 +33,7 @@ Plots and charts to visualize model performance
 
 Reproducible notebook for end-to-end experimentation
 
-Repository Structure
-📁 project/
-│── 📄 NLP_Project.ipynb        # Main Jupyter notebook
-│── 📄 rulebook.pdf             # Source document
-│── 📄 questions.json           # Domain-specific questions
-│── 📄 gold_answers.json        # Reference answers
-│── 📁 outputs/                 # Generated plots and logs
-│── 📄 README.md                # This file
+
 
 Models Evaluated
 
